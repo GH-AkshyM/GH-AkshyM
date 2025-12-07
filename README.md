@@ -8,7 +8,7 @@
 ## 🔧 Certification: **[PL-300🔗](https://learn.microsoft.com/api/credentials/share/en-us/AkshyMPillai-6997/6FA084B9AF8E91AC?sharingId=545BA506228F9E3D)**
 
 ## 📊 Featured Projects
-- 📦 **[Revenue Health Dashboard]** – Customer cohorting, RFM, funnel drop-off analysis  
+- 📦 **[Revenue Health Dashboard](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/tree/main)** – Executive Revenue Dashboard for Higher-Ups, Simplyfy monthly reports.  
 - 🧠 **[HR Attrition Analytics with Dataflow Gen2]** – NLP on customer reviews with Roberta  
 - 📈 **[Sentiment Analysis Using BERT]** – DAX modeling, time intelligence, event tracking  
 - 🔄 **[E-commerce Cohort Analytics Dashboard with Lakehouse on MS Fabric]** – Converting raw event logs into analytics-ready tables  
