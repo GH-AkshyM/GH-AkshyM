@@ -1,20 +1,11 @@
 # 💫 Hi. I'm Akshy M Pillai.
  I'm a Microsoft Certified Data Analyst **[PL-300]** from India. I'm an MBA Graduate. I have hands on experience building multiple End-to-End reports and dashboard in PowerBi. My Skills include but not limited to: 
  - Getting raw data from various sources ranging from a simple .csv file or an SQL server to a Data Lakehouse in **Microsoft Fabric**.
- - Securing a report with **RLS**. Creating and managing a workspace by assigning user roles and security groups.
  - Extracting useful insights for Leadership and highlighting them without clutter. Creating a report with best design practices endorsed by microsoft.
+ - Securing a report with **RLS**. Creating and managing a workspace by assigning user roles and security groups.
   
 
-🎯 **Data Analyst | SQL • Power BI • Python | DAX Enthusiast**  
-📍 India  
-
-I turn raw data into clear insights and practical dashboards. Currently building advanced analytics projects focused on e-commerce, customer behavior, and automation.
-
-## 🔧 Tech Stack
-**Languages:** SQL, Python, DAX  
-**Databases:** SQL Server, PostgreSQL  
-**Analytics & BI:** Power BI, SSMS, Excel  
-**Tools:** Git, Jupyter, VS Code  
+## 🔧 Certification: **[PL-300](https://learn.microsoft.com/api/credentials/share/en-us/AkshyMPillai-6997/6FA084B9AF8E91AC?sharingId=545BA506228F9E3D)**
 
 ## 📊 Featured Projects
 - 📦 **E-commerce Analytics Dashboard** – Customer cohorting, RFM, funnel drop-off analysis  
