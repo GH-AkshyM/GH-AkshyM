@@ -5,7 +5,7 @@
  - Securing a report with **RLS**. Creating and managing a workspace by assigning user roles and security groups.
   
 
-## 🔧 Certification: **[PL-300](https://learn.microsoft.com/api/credentials/share/en-us/AkshyMPillai-6997/6FA084B9AF8E91AC?sharingId=545BA506228F9E3D)**
+## 🔧 Certification: **[PL-300🔗](https://learn.microsoft.com/api/credentials/share/en-us/AkshyMPillai-6997/6FA084B9AF8E91AC?sharingId=545BA506228F9E3D)**
 
 ## 📊 Featured Projects
 - 📦 **[Revenue Health Dashboard]** – Customer cohorting, RFM, funnel drop-off analysis  
