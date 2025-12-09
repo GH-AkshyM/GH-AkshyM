@@ -9,7 +9,7 @@
 
 ## 📊 Featured Projects
 - 📦 **[Revenue Health Dashboard](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/tree/main)** – Executive Revenue Dashboard for Higher-Ups, Simplyfy monthly reports.  
-- 🧠 **[HR Attrition Analytics with Dataflow Gen2]** – NLP on customer reviews with Roberta  
+- 🧠 **[HR Attrition Analytics with Dataflow Gen2](https://github.com/GH-AkshyM/Hr-Attrition-Analytics-Dashboard)** – A Clean Minimalistic look into Attrition Analytics with Insights Hard-coded.  
 - 📈 **[Sentiment Analysis Using BERT]** – DAX modeling, time intelligence, event tracking  
 - 🔄 **[E-commerce Cohort Analytics Dashboard with Lakehouse on MS Fabric]** – Converting raw event logs into analytics-ready tables  
 
