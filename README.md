@@ -11,7 +11,7 @@
 - 📦 **[Revenue Health Dashboard](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/tree/main)** – Executive Revenue Dashboard for Higher-Ups, Simplyfy monthly reports.  
 - 🧠 **[HR Attrition Analytics with Dataflow Gen2](https://github.com/GH-AkshyM/Hr-Attrition-Analytics-Dashboard)** – A Clean Minimalistic look into Attrition Analytics with Insights Hard-coded.  
 - 📈 **[Sentiment Analysis Using BERT](https://github.com/GH-AkshyM/Sentiment-Analysis-using-BERT)** – Using SQL and Python pre-trained models for analysing customer reviews.
-- 🔄 **[E-commerce Cohort Analytics Dashboard with Lakehouse on MS Fabric]** – Converting raw event logs into analytics-ready tables  
+- 🔄 **[E-commerce Cohort Analytics Dashboard with Lakehouse on MS Fabric](https://github.com/GH-AkshyM/Cohort-Analytics-Dashboard-with-Lakehouse-on-MS-Fabric/tree/main)** – Converting raw event logs into analytics-ready tables  
 
 ## 📚 Currently Learning
 - Power BI performance optimization  
