@@ -8,6 +8,7 @@
 ## 🔧 Certification: **[PL-300🔗](https://learn.microsoft.com/api/credentials/share/en-us/AkshyMPillai-6997/6FA084B9AF8E91AC?sharingId=545BA506228F9E3D) [SQL🔗](https://www.hackerrank.com/certificates/iframe/ef12da6d11de)**
 
 ## 📊 Featured Projects
+- 🐍 **[GA4 E-commerce EDA project (BigQuery → Python)](https://github.com/GH-AkshyM/BigQuery-Python-EDA)** –  A deep EDA into GA4 dataset using exclusively Python and BigQuery.
 - 📦 **[Revenue Health Dashboard](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/tree/main)** – Executive Revenue Dashboard for Higher-Ups, Simplyfy monthly reports.  
 - 🧠 **[HR Attrition Analytics with Dataflow Gen2](https://github.com/GH-AkshyM/Hr-Attrition-Analytics-Dashboard)** – A Clean Minimalistic look into Attrition Analytics with Insights Hard-coded.  
 - 📈 **[Sentiment Analysis Using BERT](https://github.com/GH-AkshyM/Sentiment-Analysis-using-BERT)** – Using SQL and Python pre-trained models for analysing customer reviews.
